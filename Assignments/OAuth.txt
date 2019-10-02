@@ -1,0 +1,9 @@
+Impact of Open Authntication Oauth on Software Engineering and requrements
+
+When SSO/OAuth address the requirement and good to use?
+
+	When the website is not worth to share personla information e.g. online shopping websites.
+
+When we should not use SSO/ OAuth from Social media providers?
+
+	The government or educational websites are not a good idea gor the SSO/OAuth	
